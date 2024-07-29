@@ -1,12 +1,11 @@
-# Eniac-discounts-data-cleaning-
-cleaning the data of Eniacs and doing analysis about the discounts and revenue of Eniac pproducts 
+# Eniac Discounts Data Cleaning
 
+Cleaning and analyzing Eniac product data to study discounts and revenue.
 
+## Steps
 
-
-
-the data was so dirty so the first section is on data cleaning 
-after that we categorized the data 
-then we did some quality assessment 
-answering some question related to the business 
-and finaly analysing the dicount at Eniac company
+1. **Data Cleaning**: Removed duplicates, handled missing values, corrected data types, removed outliers, and standardized dates.
+2. **Data Categorization**: Organized data into meaningful categories.
+3. **Quality Assessment**: Ensured data accuracy and reliability.
+4. **Business Analysis**: Answered key questions on the impact of discounts on sales and revenue.
+5. **Discount Analysis**: Evaluated discount strategies and their effectiveness.
